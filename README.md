@@ -1,30 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a,0d1117,0d1117,161b22&height=200&section=header&text=Dhowfeek%20Hasan%20S&fontSize=48&fontColor=E8C97B&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20I%20build%20things%20that%20think&descAlignY=62&descSize=18&descColor=8B949E" width="100%"/>
 
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=dhowfeekhasan&label=Profile+Views&color=E8C97B&style=flat-square"><img src="https://komarev.com/ghpvc/?username=dhowfeekhasan&label=Profile+Views&color=E8C97B&style=flat-square"/></a>
-  &nbsp;
-  <a href="https://hasan-portfio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-hasan--portfio.lovable.app-E8C97B?style=flat-square&logo=vercel&logoColor=black"/></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-FF9933?style=flat-square"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=E8C97B&center=true&vCenter=true&width=800&lines=Building+systems+that+run+without+you.;RAG+pipelines.+Agent+architectures.+Real+deployments.;From+idea+to+production+%E2%80%94+end+to+end.;Automation+that+removes+humans+from+the+loop.;Research+deeply.+Build+intelligently.+Ship." alt="Typing SVG"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <i>
-    Building products is not about adding features.<br/>
-    It is about understanding problems deeply, reducing friction, and creating systems that scale.<br/>
-    <b>Research. Build. Measure. Refine. Repeat.</b>
-  </i>
-</div>
-
----
 
 ## ► AI Product Stack
 
