@@ -16,36 +16,6 @@
 
 <br/>
 
-```python
-class DhowfeekHasan:
-    def __init__(self):
-        self.location  = "India 🇮🇳"
-        self.education = "B.Tech · Artificial Intelligence & Data Science"
-        self.portfolio = "https://hasan-portfio.lovable.app/"
-
-        self.focus = [
-            "agentic systems",
-            "document intelligence",
-            "workflow automation",
-            "knowledge retrieval",
-            "production LLM deployment"
-        ]
-
-        self.stack = [
-            "LangChain", "LangGraph", "CrewAI", "FAISS", "Ollama",
-            "OpenAI", "Gemini", "Claude", "Hugging Face",
-            "FastAPI", "Streamlit", "Docker", "Python"
-        ]
-
-    def build(self):
-        # Research the problem space.
-        # Pick the right tool — not the trending one.
-        # Ship something that works when you're not watching.
-        return "production-ready | measurable | repeatable"
-```
-
-<br/>
-
 <div align="center">
   <i>
     Building products is not about adding features.<br/>
@@ -56,20 +26,7 @@ class DhowfeekHasan:
 
 ---
 
-## ◈ Systems & Domains
-
-```
-  AI Applications          →   LLM-powered products built for real users, not playgrounds
-  Knowledge Systems        →   RAG pipelines, vector search, document intelligence at scale
-  Automation Platforms     →   end-to-end workflows that remove humans from the loop
-  Research Infrastructure  →   tooling and pipelines that accelerate experimentation
-  Decision Intelligence    →   models that surface signal, not noise
-  Multimodal Processing    →   text, image, PDF, audio — unified extraction and retrieval
-```
-
----
-
-## ◈ AI Product Stack
+## ► AI Product Stack
 
 **Foundation Models**
 
@@ -198,7 +155,7 @@ class DhowfeekHasan:
 
 ---
 
-## ◈ Research Tracks
+## 👨🏻‍💻 Research Tracks
 
 ```
 Agent Memory & Long-Term Context
@@ -229,5 +186,3 @@ Agentic Protocol Design
     <img src="https://img.shields.io/badge/↗%20Full%20Portfolio-hasan--portfio.lovable.app-E8C97B?style=for-the-badge&logoColor=black"/>
   </a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=161b22,0d1117,0d1117,0a0a0a&height=120&section=footer&animation=twinkling" width="100%"/>
