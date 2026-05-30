@@ -1,37 +1,36 @@
 
-
 <p align="left">
   <b>Hi 👋 I'm Hasan —</b><br/>
   I design and ship AI systems end to end. From a raw problem to a running product.<br/>
   I don't just prototype — I architect, automate, and deploy.<br/>
   Every system I build is meant to work when I'm not in the room.
 </p>
-
 <br/>
-
-**Connect with me:**
-
+Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/dhowfeek-hasan/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/in-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32"/>
+  </a>&nbsp;
   <a href="https://hasan-portfio.lovable.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-E8C97B?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
+    <img src="https://img.shields.io/badge/▲-000000?style=flat-square&logo=vercel&logoColor=white" height="32"/>
+  </a>&nbsp;
   <a href="mailto:dhowfeekhasan@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=dhowfeekhasan">
-    <img src="https://komarev.com/ghpvc/?username=dhowfeekhasan&label=Profile+Views&color=E8C97B&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/M-EA4335?style=flat-square&logo=gmail&logoColor=white" height="32"/>
+  </a>&nbsp;
+  <a href="https://www.kaggle.com/">
+    <img src="https://img.shields.io/badge/k-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="32"/>
+  </a>&nbsp;
+  <a href="https://huggingface.co/">
+    <img src="https://img.shields.io/badge/HF-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="32"/>
+  </a>&nbsp;
+  <a href="https://github.com/dhowfeekhasan">
+    <img src="https://img.shields.io/badge/GH-181717?style=flat-square&logo=github&logoColor=white" height="32"/>
   </a>
 </p>
-
 <br/>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=E8C97B&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Building+systems+that+run+without+you.;RAG+pipelines.+Agent+architectures.+Real+deployments.;From+idea+to+production+%E2%80%94+end+to+end.;Automation+that+removes+humans+from+the+loop.;Research+deeply.+Build+intelligently.+Ship." alt="Typing SVG"/>
 </div>
-
 <br/>
 
 ## ► AI Product Stack
