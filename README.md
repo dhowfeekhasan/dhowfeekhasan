@@ -14,39 +14,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=E8C97B&center=true&vCenter=true&width=750&lines=Building+systems+that+run+without+you;RAG+%7C+Agents+%7C+Document+Intelligence;LLMs+in+production+%E2%80%94+not+just+in+demos;Automation+%7C+Research+%7C+Ship" alt="Typing SVG"/>
-</div>
 
----
-
-```python
-class DhowfeekHasan:
-    def __init__(self):
-        self.location     = "India 🇮🇳"
-        self.education    = "B.Tech · Artificial Intelligence & Data Science"
-        self.portfolio    = "https://hasan-portfio.lovable.app/"
-
-        self.focus        = [
-            "agentic systems",
-            "document intelligence",
-            "workflow automation",
-            "knowledge retrieval",
-            "production LLM deployment"
-        ]
-
-        self.stack        = [
-            "LangChain", "CrewAI", "LangGraph", "FAISS", "Ollama",
-            "OpenAI", "Gemini", "Claude", "Hugging Face",
-            "FastAPI", "Streamlit", "Docker", "Python"
-        ]
-
-    def build(self):
-        # Research the problem space.
-        # Pick the right tool — not the trending one.
-        # Ship something that works when you're not watching.
-        return "production-ready | measurable | repeatable"
-```
-
-<br/>
 
 <div align="center">
   <i>
@@ -58,22 +26,6 @@ class DhowfeekHasan:
 
 ---
 
-## ◈ Systems & Domains
-
-<div align="center">
-
-```
-  AI Applications          →   LLM-powered products built for real users, not playgrounds
-  Knowledge Systems        →   RAG pipelines, vector search, document intelligence at scale
-  Automation Platforms     →   end-to-end workflows that remove humans from the loop
-  Research Infrastructure  →   tooling and pipelines that accelerate experimentation
-  Decision Intelligence    →   models that surface signal, not noise
-  Multimodal Processing    →   text, image, PDF, audio — unified extraction and retrieval
-```
-
-</div>
-
----
 
 ## ◈ AI Product Stack
 
@@ -197,16 +149,15 @@ class DhowfeekHasan:
 
 ---
 
-## 🚀 Projects
+## 🚀 Works
 
-<div align="center">
 
-| ◈ | Project | What it solves | Stack |
-|---|---|---|---|
-| 🧠 | **[Multi-Format RAG Engine](https://github.com/repository)** | Agentic QA system that ingests PDFs, DOCX, CSV, PPTX, and images. MCP architecture, chat memory, full context tracing. Dockerized. | LangChain · FAISS · SentenceTransformers · LlamaIndex · Streamlit · Docker |
-| 🎬 | **[YouTube Automation Pipeline](https://github.com/repository)** | Trending topic → LLM script → AI video. End-to-end content production with zero manual steps. | CrewAI · OpenAI · YouTube Data API · Elai.io · Python |
-| 📊 | **[Monday BI Agent](https://github.com/repository)** | Live Monday.com boards connected to an LLM. Anyone asks a business question in plain English, gets a real answer — not a guess. Handles API pagination, token limits, and hallucination guardrails. | Monday.com API · LangChain · OpenAI · FastAPI · Python |
-| 🏥 | **[Clinical Decision Intelligence](https://github.com/repository)** | Hybrid system: Gradient Boosting on 400 tabular records + MobileNet on 2,000 medical images. CKD detection and classification with a real-time diagnostic UI. | TensorFlow · MobileNet · Scikit-Learn · Streamlit |
+| Works | What it solves | Stack |
+|---|---|---|
+**[Multi-Format RAG Engine](https://github.com/repository)** | Agentic QA system that ingests PDFs, DOCX, CSV, PPTX, and images. MCP architecture, chat memory, full context tracing. Dockerized. | LangChain · FAISS · SentenceTransformers · LlamaIndex · Streamlit · Docker |
+**[YouTube Automation Pipeline](https://github.com/repository)** | Trending topic → LLM script → AI video. End-to-end content production with zero manual steps. | CrewAI · OpenAI · YouTube Data API · Elai.io · Python |
+**[Monday BI Agent](https://github.com/repository)** | Live Monday.com boards connected to an LLM. Anyone asks a business question in plain English, gets a real answer — not a guess. Handles API pagination, token limits, and hallucination guardrails. | Monday.com API · LangChain · OpenAI · FastAPI · Python |
+**[Clinical Decision Intelligence](https://github.com/repository)** | Hybrid system: Gradient Boosting on 400 tabular records + MobileNet on 2,000 medical images. CKD detection and classification with a real-time diagnostic UI. | TensorFlow · MobileNet · Scikit-Learn · Streamlit |
 
 </div>
 
@@ -246,5 +197,3 @@ Agentic Protocol Design
     <img src="https://img.shields.io/badge/↗%20Full%20Portfolio-hasan--portfio.lovable.app-E8C97B?style=for-the-badge&logoColor=black" alt="Portfolio"/>
   </a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer&animation=twinkling" width="100%"/>
