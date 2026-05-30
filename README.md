@@ -136,41 +136,6 @@
 
 ---
 
-## 🚀 Works
-
-| Works | What it solves | Stack |
-|---|---|---|
-| **[Multi-Format RAG Engine](https://github.com/dhowfeekhasan)** | Agentic QA system that ingests PDFs, DOCX, CSV, PPTX, and images. MCP architecture, chat memory, full context tracing. Dockerized. | LangChain · FAISS · SentenceTransformers · LlamaIndex · Streamlit · Docker |
-| **[YouTube Automation Pipeline](https://github.com/dhowfeekhasan)** | Trending topic → LLM script → AI video. End-to-end content production with zero manual steps. | CrewAI · OpenAI · YouTube Data API · Elai.io · Python |
-| **[Monday BI Agent](https://github.com/dhowfeekhasan)** | Live Monday.com boards connected to an LLM. Anyone asks a business question in plain English, gets a real answer — not a guess. Handles API pagination, token limits, and hallucination guardrails. | Monday.com API · LangChain · OpenAI · FastAPI · Python |
-| **[Clinical Decision Intelligence](https://github.com/dhowfeekhasan)** | Hybrid system: Gradient Boosting on 400 tabular records + MobileNet on 2,000 medical images. CKD detection and classification with a real-time diagnostic UI. | TensorFlow · MobileNet · Scikit-Learn · Streamlit |
-
----
-
-## 👨🏻‍💻 Research Tracks
-
-```
-Agent Memory & Long-Term Context
-→ How agents retain, compress, and retrieve state across long-running tasks
-
-Efficient Model Adaptation
-→ LoRA / QLoRA fine-tuning — when and where it beats prompt engineering
-
-Source-Grounded Research Systems
-→ RAG pipelines that cite sources accurately and fail gracefully when they can't
-
-Multimodal Knowledge Architectures
-→ Unified retrieval across text, image, PDF, and structured data
-
-Serverless AI Infrastructure
-→ Deploying LLM-backed services that scale to zero and back without cold-start pain
-
-Agentic Protocol Design
-→ MCP, A2A — how multi-agent systems coordinate without hallucinating each other's state
-```
-
----
-
 <div align="center">
   <i>"The work that lasts is the work that runs when you're not watching."</i>
   <br/><br/>
