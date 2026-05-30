@@ -116,7 +116,7 @@ Connect with me:
 
 ---
 
-## 📈 Activity
+##  ► Activity📈
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=repository&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
@@ -124,7 +124,7 @@ Connect with me:
 
 ---
 
-## 🔥 Streak
+## ► Streak🔥
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dhowfeekhasan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=E8C97B&fire=C8A96E&currStreakLabel=E8C97B&sideLabels=6B8CFF&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
