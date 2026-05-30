@@ -1,6 +1,4 @@
-
 <br>
-
 <h2 align="center">Hiii!!!, I'm Hasan. </h2>
 
 <p align="center">
