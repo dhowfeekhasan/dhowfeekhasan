@@ -31,11 +31,6 @@ Connect with me:
     <img src="https://img.shields.io/badge/GH-181717?style=flat-square&logo=github&logoColor=white" height="32"/>
   </a>
 </p>
-<br/>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=E8C97B&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Building+systems+that+run+without+you.;RAG+pipelines.+Agent+architectures.+Real+deployments.;From+idea+to+production+%E2%80%94+end+to+end.;Automation+that+removes+humans+from+the+loop.;Research+deeply.+Build+intelligently.+Ship." alt="Typing SVG"/>
-</div>
-<br/>
 
 ## ► AI Product Stack
 
