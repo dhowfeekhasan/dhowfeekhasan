@@ -1,27 +1,32 @@
 
-<br/>
-<h3> &nbsp;Hi!!!, I'm Hasan.</h3>
-<p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Welcome to my virtual workspace.</strong>
-<br/>
-  
-Connect with me:
-<p align="left">
+<br>
+
+<h2 align="center">Hi, I'm Hasan 👋</h2>
+
+<p align="center">
+  <strong>Welcome to my virtual workspace.</strong>
+</p>
+
+<p align="center">
+  Connect with me:
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/dhowfeek-hasan/">
     <img src="https://img.shields.io/badge/in-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32"/>
-  </a>&nbsp;
+  </a>
   <a href="https://hasan-portfio.lovable.app/">
     <img src="https://img.shields.io/badge/▲-000000?style=flat-square&logo=vercel&logoColor=white" height="32"/>
-  </a>&nbsp;
+  </a>
   <a href="mailto:dhowfeekhasan@gmail.com">
     <img src="https://img.shields.io/badge/M-EA4335?style=flat-square&logo=gmail&logoColor=white" height="32"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.kaggle.com/">
-    <img src="https://img.shields.io/badge/k-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="32"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/K-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="32"/>
+  </a>
   <a href="https://huggingface.co/">
     <img src="https://img.shields.io/badge/HF-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="32"/>
-  </a>&nbsp;
+  </a>
   <a href="https://github.com/dhowfeekhasan">
     <img src="https://img.shields.io/badge/GH-181717?style=flat-square&logo=github&logoColor=white" height="32"/>
   </a>
