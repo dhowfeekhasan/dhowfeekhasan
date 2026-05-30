@@ -26,7 +26,6 @@
 
 ---
 
-
 ## ◈ AI Product Stack
 
 <div align="center">
