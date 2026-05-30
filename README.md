@@ -1,5 +1,39 @@
 
 
+<p align="left">
+  <b>Hi 👋 I'm Hasan —</b><br/>
+  I design and ship AI systems end to end. From a raw problem to a running product.<br/>
+  I don't just prototype — I architect, automate, and deploy.<br/>
+  Every system I build is meant to work when I'm not in the room.
+</p>
+
+<br/>
+
+**Connect with me:**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhowfeek-hasan/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://hasan-portfio.lovable.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-E8C97B?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+  <a href="mailto:dhowfeekhasan@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=dhowfeekhasan">
+    <img src="https://komarev.com/ghpvc/?username=dhowfeekhasan&label=Profile+Views&color=E8C97B&style=for-the-badge"/>
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=E8C97B&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Building+systems+that+run+without+you.;RAG+pipelines.+Agent+architectures.+Real+deployments.;From+idea+to+production+%E2%80%94+end+to+end.;Automation+that+removes+humans+from+the+loop.;Research+deeply.+Build+intelligently.+Ship." alt="Typing SVG"/>
+</div>
+
+<br/>
+
 ## ► AI Product Stack
 
 **Foundation Models**
@@ -92,13 +126,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/dhowfeekhasan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhowfeekhasan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=E8C97B&icon_color=C8A96E&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/dhowfeekhasan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhowfeekhasan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E8C97B&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhowfeekhasan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=E8C97B&icon_color=C8A96E&text_color=c9d1d9&border_radius=10&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhowfeekhasan&layout=compact&hide_border=true&bg_color=0d1117&title_color=E8C97B&text_color=c9d1d9&langs_count=8&border_radius=10&theme=tokyonight"/>
 </div>
+
+---
 
 ---
 
