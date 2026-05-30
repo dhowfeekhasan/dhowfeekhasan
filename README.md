@@ -119,26 +119,23 @@
 
 ---
 
-##  ► Activity📈
+## ► Activity📈
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=repository&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhowfeekhasan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
-
 ---
 
 ## ► Streak🔥
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dhowfeekhasan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=E8C97B&fire=C8A96E&currStreakLabel=E8C97B&sideLabels=6B8CFF&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=dhowfeekhasan&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF3B3B&currStreakLabel=FF4D4D&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
-
----
 
 <div align="center">
   <i>"The work that lasts is the work that runs when you're not watching."</i>
   <br/><br/>
   <a href="https://hasan-portfio.lovable.app/">
-    <img src="https://img.shields.io/badge/↗%20Full%20Portfolio-hasan--portfio.lovable.app-E8C97B?style=for-the-badge&logoColor=black"/>
+    <img src="https://img.shields.io/badge/↗%20Full%20Portfolio-hasan--portfio.lovable.app-E8C97B?style=for-the-badge&logoColor=red"/>
   </a>
 </div>
