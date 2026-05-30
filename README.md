@@ -3,8 +3,8 @@
 <h3> &nbsp;Hi!!!, I'm Hasan.</h3>
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>Welcome to my virtual workspace.</strong>
-</p>
 <br/>
+  
 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/dhowfeek-hasan/">
