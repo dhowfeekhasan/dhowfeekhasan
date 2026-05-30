@@ -2,12 +2,7 @@
 <br/>
 <h3> &nbsp;Hi!!!, I'm Hasan.</h3>
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>I turn problems into systems — and systems into products that run without me.</strong>
-</p>
-<p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;I don't wait for the perfect brief or the perfect team.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;I identify the problem, pick the right architecture, and ship something that works.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;If it can be automated, reasoned over, or made intelligent — I've already built a version of it.
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>Welcome to my virtual workspace.</strong>
 </p>
 <br/>
 Connect with me:
