@@ -27,7 +27,7 @@ Connect with me:
   </a>
 </p>
 
-## ► AI Product Stack
+## ► AI Product Stack</>
 
 **Foundation Models**
 
