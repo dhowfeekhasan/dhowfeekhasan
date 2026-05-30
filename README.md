@@ -1,9 +1,13 @@
 
+<br/>
+<h3> &nbsp;Hi!!!, I'm Hasan.</h3>
 <p align="left">
-  <b>Hi 👋 I'm Hasan —</b><br/>
-  I design and ship AI systems end to end. From a raw problem to a running product.<br/>
-  I don't just prototype — I architect, automate, and deploy.<br/>
-  Every system I build is meant to work when I'm not in the room.
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>I turn problems into systems — and systems into products that run without me.</strong>
+</p>
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;I don't wait for the perfect brief or the perfect team.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;I identify the problem, pick the right architecture, and ship something that works.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;If it can be automated, reasoned over, or made intelligent — I've already built a version of it.
 </p>
 <br/>
 Connect with me:
