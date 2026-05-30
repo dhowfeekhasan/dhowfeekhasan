@@ -123,14 +123,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhowfeekhasan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=E8C97B&icon_color=C8A96E&text_color=c9d1d9&border_radius=10&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhowfeekhasan&layout=compact&hide_border=true&bg_color=0d1117&title_color=E8C97B&text_color=c9d1d9&langs_count=8&border_radius=10&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=repository&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
-
----
 
 ---
 
